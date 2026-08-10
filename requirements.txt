@@ -1,0 +1,13 @@
+flask
+flask-sqlalchemy
+pdfplumber
+python-docx
+spacy
+sentence-transformers
+scikit-learn
+numpy
+werkzeug
+requests
+google-generativeai
+PyMuPDF
+python-dotenv
